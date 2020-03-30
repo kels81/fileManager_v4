@@ -245,5 +245,13 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Vaadin elements
+gwt-unitCache/
+widgetsets/
+/target
+styles.css
+addons.scss
+
+
 # End of https://www.gitignore.io/api/java,linux,windows,eclipse,intellij,netbeans,visualstudiocode
 /target/
